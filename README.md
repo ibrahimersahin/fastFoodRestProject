@@ -1,6 +1,4 @@
-# fastfood-cafe
-
- <h1> Restaurant Project</h1>
+<h1> Restaurant Project</h1>
 
  Restaurant web page
 
