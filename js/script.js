@@ -5,7 +5,7 @@ const navbar = document.querySelector(".navbar");
 const searchBtn = document.querySelector(".search-btn");
 const cartBtn = document.querySelector(".cart-btn");
 const menuBtn = document.querySelector(".burger");
-// add some comment
+// add some comment //
 searchBtn.addEventListener("click", function () {
     searchForm.classList.toggle("active");
     document.addEventListener("click" , function(e) {
